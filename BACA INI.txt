@@ -1,0 +1,8 @@
+di Replit buka #Secrets
+
+1. BOT_TOKEN :
+2. TOPGG_AUTH : 
+3. TOPGG_TOKEN : 
+4. VOTE_LINK : 
+5. IMAGE_LINK : 
+6. POST_CHANNEL : 
